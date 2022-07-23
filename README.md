@@ -1,2 +1,2 @@
 # eBookStore
-Online Book Store Using html + css + javascript
+Online Book Store Using HTML, CSS and JavaScript.
